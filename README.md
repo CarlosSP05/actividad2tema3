@@ -8,6 +8,7 @@ filtraLineas: selecciona únicamente las líneas que superan los 20 caracteres.
 contadorPalabras: calcula cuántas palabras hay en las líneas filtradas y muestra el total.
 
 El objetivo fue aprender a que varios programas pequeños puedan trabajar juntos usando la entrada y salida estándar, y manejar archivos de texto en un flujo de datos controlado.
+
 ⚙️ Requisitos
 
 Java JDK 21
